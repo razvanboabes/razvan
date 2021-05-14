@@ -1,0 +1,170 @@
+{
+  "basics": {
+    "name": "Razvan Boabes",
+    "label": "Programator",
+    "picture": "images/caca.webp",
+    "x_pictureFallback": "images/caca.webp",
+    "x_title": "Salut Salut!",
+    "summary": "Mi-am facut si eu un site de prezentare ca sa vada lumea ce bun sunt!",
+    "location": {
+      "country": "Romania",
+      "countryCode": "RO",
+      "region": "Bucuresti"
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "jcoelho",
+        "url": "https://www.instagram.com/razvan.boabes",
+        "x_icon":"fab fa-2x fa-instagram"
+      },
+      {
+        "network": "Facebook",
+        "username": "josecoelho93",
+        "url": "https://www.facebook.com/boabes.razvan",
+        "x_icon": "fab fa-2x fa-facebook"
+      },
+      {
+        "network": "GitHub",
+        "username": "jcoelho93",
+        "url": "https://github.com/razvanboabes",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Concurs Robotica FTC RUSSIA",
+      "startDate": "2021-04-25",
+      "endDate": "",
+      "summary": "Am luat locul 1 ca mai apoi sa aparem la multe televiziuni nationale si sa fim premiati chiar de ministrul afacerilor externe",
+      "highlights": []
+    },
+    {
+      "company": "Ofer meditatii",
+      "startDate": "2021-1-1",
+      "endDate": "",
+      "summary": "Nivel de clasa a cincea si a sasea la matematica si informatica",
+      "highlights": []
+    },
+    {
+      "company": "Olimpic smecher de tot la fizica",
+      "startDate": "2016-09-14",
+      "endDate": "",
+      "summary": "Am ajuns la nationale la materia asta tare",
+      "highlights": []
+    },
+    {
+      "company": "Olimpic smecher de tot la informatica",
+      "startDate": "2016-09-14",
+      "endDate": "",
+      "summary": "Am ajuns la numeroase nationale la materia asta tare",
+      "highlights": []
+    },
+    {
+      "company": "Incep cursurile in vianu",
+      "startDate": "2016-09-14",
+      "endDate": "",
+      "summary": "Am fugit din 79 si am venit in liceul asta tare de tot!!",
+      "highlights": []
+    },
+    {
+      "company": "Incep cursurile la scoala 79",
+      "startDate": "2012-09-14",
+      "endDate": "2016-09-14",
+      "summary": "o scoala primara chiar tare a fost super!",
+      "highlights": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Object Oriented Programming in Java",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "C++",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "HTML CSS JS",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Fizica",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Matematica",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Mecanica",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Baschet",
+      "level": "Advanced",
+      "keywords": ["baschet"]
+    },
+    {
+      "name": "Inot",
+      "level": "Advanced",
+      "keywords": ["baschet"]
+    },
+    {
+      "name": "Ciclism",
+      "level": "Intermediate",
+      "keywords": ["baschet"]
+    },
+    {
+      "name": "Tenis de Masa",
+      "level": "Intermediate",
+      "keywords": ["baschet"]
+    },
+    {
+      "name": "Fotbal",
+      "level": "Basic",
+      "keywords": ["baschet"]
+    },
+    {
+      "name": "Gaming",
+      "level": "Intermediate",
+      "keywords": ["baschet"]
+    },
+    {
+      "name": "Dans Sportiv",
+      "level": "Intermediate",
+      "keywords": ["baschet"]
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "Calatoresc",
+      "x_icon": "fa-globe-africa"
+    },
+    {
+      "name": "Baschet",
+      "x_icon": "fa-basketball-ball"
+    },
+    {
+      "name": "Programez",
+      "x_icon": "fa-code"
+    },
+    {
+      "name": "Robotica",
+      "x_icon": "fa-robot"
+    }
+  ]
+}
